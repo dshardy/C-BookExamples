@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		45EE1AF41E6EDFC900EDB4F5 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1AF31E6EDFC900EDB4F5 /* main.c */; };
+		45EE1AFC1E6EE21200EDB4F5 /* Calling Recursively with Functions.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1AFA1E6EE21200EDB4F5 /* Calling Recursively with Functions.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		45EE1AF01E6EDFC900EDB4F5 /* Book Examples */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Book Examples"; sourceTree = BUILT_PRODUCTS_DIR; };
 		45EE1AF31E6EDFC900EDB4F5 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		45EE1AFA1E6EE21200EDB4F5 /* Calling Recursively with Functions.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Calling Recursively with Functions.c"; sourceTree = "<group>"; };
+		45EE1AFB1E6EE21200EDB4F5 /* Calling Recursively with Functions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Calling Recursively with Functions.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				45EE1AF31E6EDFC900EDB4F5 /* main.c */,
+				45EE1AFA1E6EE21200EDB4F5 /* Calling Recursively with Functions.c */,
+				45EE1AFB1E6EE21200EDB4F5 /* Calling Recursively with Functions.h */,
 			);
 			path = "Book Examples";
 			sourceTree = "<group>";
@@ -119,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45EE1AF41E6EDFC900EDB4F5 /* main.c in Sources */,
+				45EE1AFC1E6EE21200EDB4F5 /* Calling Recursively with Functions.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
