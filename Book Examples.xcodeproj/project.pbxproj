@@ -10,6 +10,7 @@
 		45EE1AF41E6EDFC900EDB4F5 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1AF31E6EDFC900EDB4F5 /* main.c */; };
 		45EE1AFC1E6EE21200EDB4F5 /* Calling Recursively with Functions.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1AFA1E6EE21200EDB4F5 /* Calling Recursively with Functions.c */; };
 		45EE1AFF1E6EE84A00EDB4F5 /* Supplying arguments using functions.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1AFD1E6EE84A00EDB4F5 /* Supplying arguments using functions.c */; };
+		45EE1B021E6EFF6700EDB4F5 /* Placing Functions in Headers.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1B001E6EFF6700EDB4F5 /* Placing Functions in Headers.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		45EE1AFB1E6EE21200EDB4F5 /* Calling Recursively with Functions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Calling Recursively with Functions.h"; sourceTree = "<group>"; };
 		45EE1AFD1E6EE84A00EDB4F5 /* Supplying arguments using functions.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Supplying arguments using functions.c"; sourceTree = "<group>"; };
 		45EE1AFE1E6EE84A00EDB4F5 /* Supplying arguments using functions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Supplying arguments using functions.h"; sourceTree = "<group>"; };
+		45EE1B001E6EFF6700EDB4F5 /* Placing Functions in Headers.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Placing Functions in Headers.c"; sourceTree = "<group>"; };
+		45EE1B011E6EFF6700EDB4F5 /* Placing Functions in Headers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Placing Functions in Headers.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				45EE1AFA1E6EE21200EDB4F5 /* Calling Recursively with Functions.c */,
 				45EE1AFB1E6EE21200EDB4F5 /* Calling Recursively with Functions.h */,
 				45EE1AFD1E6EE84A00EDB4F5 /* Supplying arguments using functions.c */,
+				45EE1B001E6EFF6700EDB4F5 /* Placing Functions in Headers.c */,
+				45EE1B011E6EFF6700EDB4F5 /* Placing Functions in Headers.h */,
 				45EE1AFE1E6EE84A00EDB4F5 /* Supplying arguments using functions.h */,
 			);
 			path = "Book Examples";
@@ -129,6 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45EE1AF41E6EDFC900EDB4F5 /* main.c in Sources */,
+				45EE1B021E6EFF6700EDB4F5 /* Placing Functions in Headers.c in Sources */,
 				45EE1AFC1E6EE21200EDB4F5 /* Calling Recursively with Functions.c in Sources */,
 				45EE1AFF1E6EE84A00EDB4F5 /* Supplying arguments using functions.c in Sources */,
 			);

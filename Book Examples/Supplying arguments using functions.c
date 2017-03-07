@@ -44,3 +44,4 @@ int cube(int y)
 {
     return (y * y) * y;
 }
+
