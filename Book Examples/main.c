@@ -14,8 +14,9 @@ int main()
 {
  
     //Calling_Recursively_with_Functions();
-    
     // SupplyingArgumentsUsingFunctions();
     // getnum();
+    InputVariableMain();
+
     
 }
