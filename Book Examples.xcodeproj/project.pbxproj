@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		45DCF6CA1E6F772900322B93 /* Inputting variable values.c in Sources */ = {isa = PBXBuildFile; fileRef = 45DCF6C81E6F772900322B93 /* Inputting variable values.c */; };
 		45EE1AF41E6EDFC900EDB4F5 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1AF31E6EDFC900EDB4F5 /* main.c */; };
 		45EE1AFC1E6EE21200EDB4F5 /* Calling Recursively with Functions.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1AFA1E6EE21200EDB4F5 /* Calling Recursively with Functions.c */; };
 		45EE1AFF1E6EE84A00EDB4F5 /* Supplying arguments using functions.c in Sources */ = {isa = PBXBuildFile; fileRef = 45EE1AFD1E6EE84A00EDB4F5 /* Supplying arguments using functions.c */; };
@@ -26,6 +27,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		45DCF6C81E6F772900322B93 /* Inputting variable values.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Inputting variable values.c"; sourceTree = "<group>"; };
+		45DCF6C91E6F772900322B93 /* Inputting variable values.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Inputting variable values.h"; sourceTree = "<group>"; };
 		45EE1AF01E6EDFC900EDB4F5 /* Book Examples */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Book Examples"; sourceTree = BUILT_PRODUCTS_DIR; };
 		45EE1AF31E6EDFC900EDB4F5 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		45EE1AFA1E6EE21200EDB4F5 /* Calling Recursively with Functions.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Calling Recursively with Functions.c"; sourceTree = "<group>"; };
@@ -69,6 +72,8 @@
 				45EE1AF31E6EDFC900EDB4F5 /* main.c */,
 				45EE1AFA1E6EE21200EDB4F5 /* Calling Recursively with Functions.c */,
 				45EE1AFB1E6EE21200EDB4F5 /* Calling Recursively with Functions.h */,
+				45DCF6C81E6F772900322B93 /* Inputting variable values.c */,
+				45DCF6C91E6F772900322B93 /* Inputting variable values.h */,
 				45EE1AFD1E6EE84A00EDB4F5 /* Supplying arguments using functions.c */,
 				45EE1B001E6EFF6700EDB4F5 /* Placing Functions in Headers.c */,
 				45EE1B011E6EFF6700EDB4F5 /* Placing Functions in Headers.h */,
@@ -133,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45DCF6CA1E6F772900322B93 /* Inputting variable values.c in Sources */,
 				45EE1AF41E6EDFC900EDB4F5 /* main.c in Sources */,
 				45EE1B021E6EFF6700EDB4F5 /* Placing Functions in Headers.c in Sources */,
 				45EE1AFC1E6EE21200EDB4F5 /* Calling Recursively with Functions.c in Sources */,

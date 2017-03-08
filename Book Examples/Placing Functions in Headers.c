@@ -1,3 +1,10 @@
+////
+////  utils.h
+////  Placing functions in headers
+////
+////  Created by Darren Hardy on 25/11/2016.
+////  Copyright © 2016 Darren Hardy. All rights reserved.
+////
 //
 //  utils.h
 //  Placing functions in headers
