@@ -11,4 +11,4 @@
 
 #include <stdio.h>
 
-#endif /* Placing_Functions_in_Headers_h */
+#endif //Placing_Functions_in_Headers_h//
